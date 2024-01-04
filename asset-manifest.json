@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.1c16590e.chunk.css",
-    "main.js": "./static/js/main.63b9be7b.chunk.js",
-    "main.js.map": "./static/js/main.63b9be7b.chunk.js.map",
+    "main.css": "./static/css/main.5edbea21.chunk.css",
+    "main.js": "./static/js/main.180b5683.chunk.js",
+    "main.js.map": "./static/js/main.180b5683.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/css/2.172f518d.chunk.css": "./static/css/2.172f518d.chunk.css",
-    "static/js/2.bb1e8669.chunk.js": "./static/js/2.bb1e8669.chunk.js",
-    "static/js/2.bb1e8669.chunk.js.map": "./static/js/2.bb1e8669.chunk.js.map",
+    "static/js/2.19c97e49.chunk.js": "./static/js/2.19c97e49.chunk.js",
+    "static/js/2.19c97e49.chunk.js.map": "./static/js/2.19c97e49.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.172f518d.chunk.css.map": "./static/css/2.172f518d.chunk.css.map",
-    "static/css/main.1c16590e.chunk.css.map": "./static/css/main.1c16590e.chunk.css.map",
-    "static/js/2.bb1e8669.chunk.js.LICENSE.txt": "./static/js/2.bb1e8669.chunk.js.LICENSE.txt",
+    "static/css/main.5edbea21.chunk.css.map": "./static/css/main.5edbea21.chunk.css.map",
+    "static/js/2.19c97e49.chunk.js.LICENSE.txt": "./static/js/2.19c97e49.chunk.js.LICENSE.txt",
     "static/media/Arrow.a61ad2d0.svg": "./static/media/Arrow.a61ad2d0.svg",
     "static/media/Pagination.scss": "./static/media/ArrowPagination.136562b2.svg",
     "static/media/Banner.a34f00c7.jpg": "./static/media/Banner.a34f00c7.jpg",
@@ -22,6 +22,7 @@
     "static/media/Favourites (Heart Like).e44e5018.svg": "./static/media/Favourites (Heart Like).e44e5018.svg",
     "static/media/Favourites Filled (Heart Like).d554a185.svg": "./static/media/Favourites Filled (Heart Like).d554a185.svg",
     "static/media/LOGO.13ce922e.svg": "./static/media/LOGO.13ce922e.svg",
+    "static/media/BasketPages.scss": "./static/media/Plus.dea15724.svg",
     "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/accessories.8478b80a.png": "./static/media/accessories.8478b80a.png",
     "static/media/arrow.53e0b566.svg": "./static/media/arrow.53e0b566.svg",
@@ -32,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/css/2.172f518d.chunk.css",
-    "static/js/2.bb1e8669.chunk.js",
-    "static/css/main.1c16590e.chunk.css",
-    "static/js/main.63b9be7b.chunk.js"
+    "static/js/2.19c97e49.chunk.js",
+    "static/css/main.5edbea21.chunk.css",
+    "static/js/main.180b5683.chunk.js"
   ]
 }
