@@ -3,7 +3,7 @@ Follow to link:
 
 Used technologies:
 - React
-- JS
+- JS/HTML/SCSS
 - TypeScript
 - Redux
 - REST API
